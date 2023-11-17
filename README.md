@@ -1,3 +1,29 @@
+<!-- 
+
+
+//steps of this web site
+------Home page----
+1.home page have three section, home banner , home search option thats not comlet for dynamic search but implement design done and home page have torist place option.
+2.if some one want to explore then this user must be a logged in user.
+3.destination navigation is private.
+
+-----destination page----
+*if some one explore destination page or click explore button they will be redirect login page after login this person do explore it.
+* destination page have booking button and after click booking button will be open a booking modal user can provide their info and booked this item and it will be save in local storage.
+
+-----About page----
+*about page have a banner, about info, company contribution,
+
+----login and sign in page----
+*there implement login and signup page with "React hook form".
+*there implement user name, email, password.
+*i implement othes thinks but unfortunately deploy problem held so again i edit site
+
+--Thanks for invite me.. may be there has many mistake but I'm confident that if you hire me I will prove me very well.--- 
+
+ -->
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
