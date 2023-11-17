@@ -1,0 +1,32 @@
+[
+    {
+        "_id": "6555a653f361f872dafc1c01",
+        "placeName": "UK Tourist place",
+        "bannerImg": "https://images.pexels.com/photos/3835461/pexels-photo-3835461.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+        "image": "https://images.pexels.com/photos/5588502/pexels-photo-5588502.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+        "details": "Welcome to London, the enchanting capital where history and modernity come alive. While you’re likely familiar with iconic landmarks like Big Ben and Buckingham Palace, our top 10 list is designed to help you make the most of your time here. We’ve curated a selection of time-efficient tours, priority passes to skip those long queues, and even some really cool day tours that will take you beyond the city’s usual tourist trail. Unique modes of transportation, like river cruises, offer a fresh perspective on London’s stunning skyline. Whether you’re into art, theater, or just looking for a tranquil escape in Hyde Park or Kew Gardens, our guide is tailored to make your London adventure both efficient and unforgettable. Get ready for a London experience like no other",
+        "video": "https://www.youtube.com/watch?v=PtWeqZsuzpE",
+        "location": "London",
+        "price": 500
+    },
+    {
+        "_id": "6555a653f361f872dafc1c02",
+        "placeName": "UK Tourist place",
+        "bannerImg": "https://images.pexels.com/photos/3835461/pexels-photo-3835461.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+        "image": "https://images.pexels.com/photos/5588502/pexels-photo-5588502.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+        "details": "Welcome to London, the enchanting capital where history and modernity come alive. While you’re likely familiar with iconic landmarks like Big Ben and Buckingham Palace, our top 10 list is designed to help you make the most of your time here. We’ve curated a selection of time-efficient tours, priority passes to skip those long queues, and even some really cool day tours that will take you beyond the city’s usual tourist trail. Unique modes of transportation, like river cruises, offer a fresh perspective on London’s stunning skyline. Whether you’re into art, theater, or just looking for a tranquil escape in Hyde Park or Kew Gardens, our guide is tailored to make your London adventure both efficient and unforgettable. Get ready for a London experience like no other",
+        "video": "https://www.youtube.com/watch?v=PtWeqZsuzpE",
+        "location": "London",
+        "price": 500
+    },
+    {
+        "_id": "6555a653f361f872dafc1c03",
+        "placeName": "UK Tourist place",
+        "bannerImg": "https://images.pexels.com/photos/3835461/pexels-photo-3835461.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+        "image": "https://images.pexels.com/photos/5588502/pexels-photo-5588502.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+        "details": "Welcome to London, the enchanting capital where history and modernity come alive. While you’re likely familiar with iconic landmarks like Big Ben and Buckingham Palace, our top 10 list is designed to help you make the most of your time here. We’ve curated a selection of time-efficient tours, priority passes to skip those long queues, and even some really cool day tours that will take you beyond the city’s usual tourist trail. Unique modes of transportation, like river cruises, offer a fresh perspective on London’s stunning skyline. Whether you’re into art, theater, or just looking for a tranquil escape in Hyde Park or Kew Gardens, our guide is tailored to make your London adventure both efficient and unforgettable. Get ready for a London experience like no other",
+        "video": "https://www.youtube.com/watch?v=PtWeqZsuzpE",
+        "location": "London",
+        "price": 500
+    }
+]
